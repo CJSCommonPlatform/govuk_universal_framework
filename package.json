@@ -1,0 +1,24 @@
+{
+  "name": "govuk-universal-framework",
+  "version": "1.0.1",
+  "description": "govuk/universal_framework - This contains the core functionality to build a progressively enhanced, assured angular application",
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJSCommonPlatform/govuk_universal_framework.git"
+  },
+  "license": "ISC",
+  "contributors": [
+    "Juan Jose Alonso <juan.alonsolara@agilesphere.co.uk>"
+  ],
+  "bugs": {
+    "url": "https://github.com/CJSCommonPlatform/govuk_universal_framework/issues"
+  },
+  "homepage": "https://github.com/CJSCommonPlatform/govuk_universal_framework#readme",
+
+  "devDependencies": {
+    "copy-webpack-plugin": "^3.0.1",
+    "webpack-merge": "^0.13.0"
+  }
+
+}
