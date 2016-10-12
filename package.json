@@ -1,5 +1,5 @@
 {
-  "name": "govuk-universal-framework",
+  "name": "@govuk/govuk_universal_framework",
   "version": "1.0.1",
   "description": "govuk/universal_framework - This contains the core functionality to build a progressively enhanced, assured angular application",
   "main": "webpack.config.js",
